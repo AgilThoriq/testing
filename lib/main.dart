@@ -16,10 +16,10 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.pink,
-          title: Text('Muhamad Farijan'),
+          title: Text('Muhammad Agil Thoriq R'),
         ),
         body: Center(
-          child: Text('NPM  5520122146', style: TextStyle(fontSize: 50,color: Colors.blue),),
+          child: Text('NPM  5520122147', style: TextStyle(fontSize: 50,color: Colors.blue),),
           
         ),
       ),
